@@ -140,9 +140,7 @@ const EducationCard = ({ education }) => {
                 </Body>
             </Top>
             <Grade><b>Grade: </b>{education.grade}</Grade>
-            <Description>
-                <Span>{education.desc}</Span>
-            </Description>
+            
         </Card>
     )
 }
