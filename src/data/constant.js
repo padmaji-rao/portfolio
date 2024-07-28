@@ -162,16 +162,15 @@ export const projects = [
 
     {
         id:"0",
-        title:"Contact Manager",
-        description:"I completed a project using Flutter and Dart with Firebase as the database, incorporating data structures and algorithms (DSA) for more efficient searching and sorting. It showcases my skills in mobile app development and backend integration.",
-        image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/contact_manager_cover.jpg?alt=media&token=b6955d5e-dc5d-44bc-94e5-5b12caa90299",
+        title:"Nxt Trendz",
+        description:"I completed a project using MERN Stack. It showcases my skills in frontend develeopment.",
+        image:"https://res.cloudinary.com/dctphpu7m/image/upload/v1722160540/Screenshot_2024-07-28_150041_zphibh.png",
         tags:[
-            "Flutter",
-            "Dart",
-            "Firebase"
+            "React JS",
+            "Routing",
         ],
-        catagory:"Android App",
-        github:"https://github.com/Hitesh123mori/Contact_Manager",
+        catagory:"Web Application",
+        github:"https://github.com/padmaji-rao/nxtTrendz-reactJS",
     },
     
     {
